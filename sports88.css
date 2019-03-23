@@ -1,0 +1,19 @@
+body{
+background-color:#228B22;
+color:black;
+}
+h1{
+text-align:center;
+color:Black;
+}
+table{
+text-align: center;	
+width:45%;
+margin:auto;
+background-color:#000000;
+border:4px;
+}
+td,th{
+background-color:#228B22;
+border:4px;
+}
