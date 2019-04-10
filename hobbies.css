@@ -1,0 +1,19 @@
+.container
+{
+	width: 1200px;
+	margin: 20px auto 0;
+	display: table;
+	box-sizing: border-box;
+}
+.row
+{
+	margin: 0px 0;
+}
+.column
+{
+	background: #ccc;
+	display: table-cell;
+	padding: 10px;
+	width: 35%;
+
+}
